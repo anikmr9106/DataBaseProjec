@@ -1,0 +1,9 @@
+c:\users\anil\documents\visual studio 2015\Projects\MY DATA BASE PROGRAM\MY DATA BASE PROGRAM\bin\Debug\MY DATA BASE PROGRAM.exe.config
+c:\users\anil\documents\visual studio 2015\Projects\MY DATA BASE PROGRAM\MY DATA BASE PROGRAM\bin\Debug\MY DATA BASE PROGRAM.exe
+c:\users\anil\documents\visual studio 2015\Projects\MY DATA BASE PROGRAM\MY DATA BASE PROGRAM\bin\Debug\MY DATA BASE PROGRAM.pdb
+c:\users\anil\documents\visual studio 2015\Projects\MY DATA BASE PROGRAM\MY DATA BASE PROGRAM\obj\Debug\MY_DATA_BASE_PROGRAM.Form1.resources
+c:\users\anil\documents\visual studio 2015\Projects\MY DATA BASE PROGRAM\MY DATA BASE PROGRAM\obj\Debug\MY_DATA_BASE_PROGRAM.Properties.Resources.resources
+c:\users\anil\documents\visual studio 2015\Projects\MY DATA BASE PROGRAM\MY DATA BASE PROGRAM\obj\Debug\MY DATA BASE PROGRAM.csproj.GenerateResource.Cache
+c:\users\anil\documents\visual studio 2015\Projects\MY DATA BASE PROGRAM\MY DATA BASE PROGRAM\obj\Debug\MY DATA BASE PROGRAM.exe
+c:\users\anil\documents\visual studio 2015\Projects\MY DATA BASE PROGRAM\MY DATA BASE PROGRAM\obj\Debug\MY DATA BASE PROGRAM.pdb
+c:\users\anil\documents\visual studio 2015\Projects\MY DATA BASE PROGRAM\MY DATA BASE PROGRAM\obj\Debug\MY DATA BASE PROGRAM.csprojResolveAssemblyReference.cache
